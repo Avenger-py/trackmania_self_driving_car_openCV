@@ -2,6 +2,7 @@
 To automate the car in Trackmania racing game using lane detection.
 
 # Results
+Click the image to watch the video
 
 [![Map 1](https://img.youtube.com/vi/kwlQMkqwNRk/0.jpg)](https://youtu.be/kwlQMkqwNRk0 "Map 1")
 
